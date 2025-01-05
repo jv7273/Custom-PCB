@@ -1,4 +1,4 @@
-Dual ESP32 Flipper Zero GPIO Extension Board
+Dual ESP32 Flipper Zero GPIO Extension Board (WORK IN PROGRESS)
 
 Dual ESP32-WROOM-UE (One controled via LCD, One controlled via Flipper Zero)
 NEO-6M GPS Connected to LCD ESP32 for Wardriving capabilites
