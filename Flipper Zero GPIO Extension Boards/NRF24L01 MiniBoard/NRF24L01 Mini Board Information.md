@@ -13,3 +13,6 @@ MK1 - NRF24L01 (I used https://www.aliexpress.us/item/3256805303534236.html?spm=
 
 Dimensions:
 23.49 x 22.1mm
+
+Enclosure:
+Enclosure WIP
